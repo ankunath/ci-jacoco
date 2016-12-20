@@ -6,7 +6,7 @@ jdk:
 build:
   advancedReporting: true
   ci:
-    - sleep 9m
+   # - sleep 9m
     # Create folders for test and code coverage
     - mkdir -p shippable/codecoverage
     - mvn install
