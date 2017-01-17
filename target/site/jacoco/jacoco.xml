@@ -7,7 +7,7 @@
     <class name="com/mycompany/products/Bus">
       <method name="&lt;init&gt;" desc="()V" line="11">
         <counter type="INSTRUCTION" missed="7" covered="0"/>
-        <counter type="LINE" missed="3" covered="0"/>
+        <counter type="LINE" missed="10" covered="0"/>
         <counter type="COMPLEXITY" missed="1" covered="0"/>
         <counter type="METHOD" missed="1" covered="0"/>
       </method>
@@ -19,7 +19,7 @@
       </method>
       <counter type="INSTRUCTION" missed="21" covered="0"/>
       <counter type="LINE" missed="5" covered="0"/>
-      <counter type="COMPLEXITY" missed="2" covered="0"/>
+      <counter type="COMPLEXITY" missed="2" covered="20"/>
       <counter type="METHOD" missed="2" covered="0"/>
       <counter type="CLASS" missed="1" covered="0"/>
     </class>
@@ -107,8 +107,8 @@
     <class name="com/mycompany/app/App">
       <method name="&lt;init&gt;" desc="()V" line="7">
         <counter type="INSTRUCTION" missed="0" covered="3"/>
-        <counter type="LINE" missed="0" covered="1"/>
-        <counter type="COMPLEXITY" missed="0" covered="1"/>
+        <counter type="LINE" missed="15" covered="1"/>
+        <counter type="COMPLEXITY" missed="2" covered="1"/>
         <counter type="METHOD" missed="0" covered="1"/>
       </method>
       <method name="main" desc="([Ljava/lang/String;)V" line="11">
@@ -141,8 +141,8 @@
       <line nr="20" mi="0" ci="7" mb="0" cb="0"/>
       <counter type="INSTRUCTION" missed="8" covered="17"/>
       <counter type="BRANCH" missed="1" covered="1"/>
-      <counter type="LINE" missed="3" covered="4"/>
-      <counter type="COMPLEXITY" missed="2" covered="2"/>
+      <counter type="LINE" missed="9" covered="4"/>
+      <counter type="COMPLEXITY" missed="2" covered="20"/>
       <counter type="METHOD" missed="1" covered="2"/>
       <counter type="CLASS" missed="0" covered="1"/>
     </sourcefile>
