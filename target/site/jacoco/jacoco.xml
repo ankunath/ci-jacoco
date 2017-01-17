@@ -119,13 +119,13 @@
       </method>
       <method name="add" desc="(Ljava/lang/Integer;Ljava/lang/Integer;)Ljava/lang/Integer;" line="15">
         <counter type="INSTRUCTION" missed="4" covered="14"/>
-        <counter type="BRANCH" missed="1" covered="1"/>
+        <counter type="BRANCH" missed="12" covered="3"/>
         <counter type="LINE" missed="1" covered="13"/>
         <counter type="COMPLEXITY" missed="1" covered="1"/>
         <counter type="METHOD" missed="0" covered="1"/>
       </method>
       <counter type="INSTRUCTION" missed="8" covered="17"/>
-      <counter type="BRANCH" missed="1" covered="1"/>
+      <counter type="BRANCH" missed="4" covered="10"/>
       <counter type="LINE" missed="9" covered="4"/>
       <counter type="COMPLEXITY" missed="2" covered="2"/>
       <counter type="METHOD" missed="1" covered="2"/>
@@ -140,21 +140,21 @@
       <line nr="18" mi="0" ci="3" mb="0" cb="0"/>
       <line nr="20" mi="0" ci="7" mb="0" cb="0"/>
       <counter type="INSTRUCTION" missed="8" covered="17"/>
-      <counter type="BRANCH" missed="1" covered="1"/>
+      <counter type="BRANCH" missed="19" covered="1"/>
       <counter type="LINE" missed="9" covered="49"/>
       <counter type="COMPLEXITY" missed="12" covered="20"/>
       <counter type="METHOD" missed="1" covered="2"/>
       <counter type="CLASS" missed="0" covered="1"/>
     </sourcefile>
     <counter type="INSTRUCTION" missed="8" covered="17"/>
-    <counter type="BRANCH" missed="1" covered="1"/>
+    <counter type="BRANCH" missed="6" covered="12"/>
     <counter type="LINE" missed="43" covered="15"/>
     <counter type="COMPLEXITY" missed="21" covered="6"/>
     <counter type="METHOD" missed="1" covered="2"/>
     <counter type="CLASS" missed="0" covered="1"/>
   </package>
   <counter type="INSTRUCTION" missed="67" covered="17"/>
-  <counter type="BRANCH" missed="1" covered="1"/>
+  <counter type="BRANCH" missed="9" covered="30"/>
   <counter type="LINE" missed="6" covered="19"/>
   <counter type="COMPLEXITY" missed="18" covered="7"/>
   <counter type="METHOD" missed="7" covered="2"/>
